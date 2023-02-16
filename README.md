@@ -8,7 +8,7 @@
 
 | Código | Nombre | Curso | Repositorio |
 | ------ | ------ | ----- | ----------- |
-|LMSGI   |Lenguaje de Marcas y Sistemas de Gestión de la Información | 22-23|ED|
+|LMSGI   |Lenguaje de Marcas y Sistemas de Gestión de la Información | 22-23|[LMSGI](https://github.com/TheGunRaider/LMSGI)|
 |ED      |Entornos de Desarrollo|22-23|ED|
 |BBDD    |Bases de Datos|22-23|BBDD|
 |PROG    |Programación|22-23|PROG|
